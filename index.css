@@ -1,17 +1,26 @@
-.search_bar {
-    overflow: hidden;
-    background-color: #e9e9e9;
+.hplogo{
+    top: 20%;
+    width: 100%;
+    position: absolute;
+    text-align: center;
 }
 
-.search_bar {
-    float: left;
-    display: block;
-    color: black;
-    text-align: left;
-    padding: 14px 16px;
-    text-decoration: none;
-    font-size: 17px;
-    margin: 0 50%;
-    height: 118px;
+.search_bar{
+    top: 35%;
+    position: absolute;
+    width: 100%;
+text-align: center;
+}
+
+.topnav{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+.rightnav{
+    float: right;
+}
+li{
+    display: inline;
 }
 
